@@ -1,12 +1,12 @@
-#Resources
+###Resources
 
 This repository serves as a place to gather resources for learning and applying various pieces of knowledge in regards to programming, sound design and other tidbits found around the internet.
 
 
 
-##Programming
+###Programming
 
-### Audio Programming
+**Audio Programming**
 
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
 - [Intro to Audio Programming, Part 1](https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/)
@@ -22,7 +22,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
 
 
-###Game Engines & Development
+**Game Engines & Development**
 
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 - [Writing a Game Engine in 2017](http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/)
@@ -41,7 +41,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [A Trip Down The LoL Graphics Pipeline](https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline)
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 
-###C++
+**C++**
 
 - [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
 - [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
@@ -52,13 +52,13 @@ This repository serves as a place to gather resources for learning and applying 
 - [Modern C++ and Lisp Programming Style](https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/)
 - [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
 
-###C# & Unity
+**C# & Unity**
 
 - [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
 
-###Other Ideas
+**Other Ideas**
 
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 - [Daily builds are you friend](https://www.joelonsoftware.com/2001/01/27/daily-builds-are-your-friend/)
@@ -86,7 +86,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 
 
-##Sound Design
+###Sound Design
 
 - [Listening For Loudness in Video Games](www.stephenschappler.com/2013/07/26/listening-for-loudness-in-video-games/)
 - [Mobile Game Audio and Loudness](http://www.gamasutra.com/blogs/RobBridgett/20150311/225632/Adaptive_Audio_for_Mobile.php)
@@ -96,7 +96,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 
 
-##Privacy
+###Privacy
 
 - [privacytools.io](https://privacytoolsio.github.io/privacytools.io/)
 - [EFF: Privacy Badger](https://www.eff.org/privacybadger)
