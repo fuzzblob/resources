@@ -1,10 +1,7 @@
-###Resources
+**Resources**
 
 This repository serves as a place to gather resources for learning and applying various pieces of knowledge in regards to programming, sound design and other tidbits found around the internet.
 
-
-
-###Programming
 
 **Audio Programming**
 
@@ -86,7 +83,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 
 
-###Sound Design
+**Sound Design**
 
 - [Listening For Loudness in Video Games](www.stephenschappler.com/2013/07/26/listening-for-loudness-in-video-games/)
 - [Mobile Game Audio and Loudness](http://www.gamasutra.com/blogs/RobBridgett/20150311/225632/Adaptive_Audio_for_Mobile.php)
@@ -96,7 +93,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 
 
-###Privacy
+**Privacy**
 
 - [privacytools.io](https://privacytoolsio.github.io/privacytools.io/)
 - [EFF: Privacy Badger](https://www.eff.org/privacybadger)
