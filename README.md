@@ -20,6 +20,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} Bridging the Gap Between Your Audio Engine and Your Game](http://www.gdcvault.com/play/1020458/Bridging-the-Gap-Between-Your)
 - [{VIDEO} How To Write an Audio Engine](http://www.gdcvault.com/play/1022060/How-to-Write-an-Audio)
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
+- [Audio programming through the crystal ball](https://www.develop-online.net/tools-and-tech/audio-programming-through-the-crystal-ball/0116844)
 
 
 **Game Engines & Development**
@@ -40,6 +41,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [The Ikenfel Game Engine Architecture](http://ikenfell.com/tools/)
 - [A Trip Down The LoL Graphics Pipeline](https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline)
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
+- [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
 
 **C++**
 
@@ -57,9 +59,11 @@ This repository serves as a place to gather resources for learning and applying 
 - [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
+- [The C# ref keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
 
 **Other Ideas**
 
+-[Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 - [Daily builds are you friend](https://www.joelonsoftware.com/2001/01/27/daily-builds-are-your-friend/)
 - [Zen and the art of Unit testing](https://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing)
@@ -90,6 +94,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 - [Listening For Loudness in Video Games](www.stephenschappler.com/2013/07/26/listening-for-loudness-in-video-games/)
 - [Mobile Game Audio and Loudness](http://www.gamasutra.com/blogs/RobBridgett/20150311/225632/Adaptive_Audio_for_Mobile.php)
+- [Audio loudness for gaming: The battle against 'ear fatigue'](https://www.develop-online.net/analysis/audio-loudness-for-gaming-the-battle-against-ear-fatigue/0201083)
 - [School of Sound archives](http://www.schoolofsound.co.uk/sos/audio-and-video-archives/)
 - [Ableton Push for Reaper](http://www.mossgrabers.de/Software/Push/Push.html)
 - [{VIDEO} Game Audio talks](https://www.youtube.com/playlist?list=PLqrMQvig3uIv9y7R8E-o2e3SCdzYAhD0g)
