@@ -2,7 +2,6 @@
 
 This repository serves as a place to gather resources for learning and applying various pieces of knowledge in regards to programming, sound design and other tidbits found around the internet.
 
-
 **Audio Programming**
 
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
@@ -35,6 +34,7 @@ This repository serves as a place to gather resources for learning and applying 
 **C# & Unity**
 
 - Intro duction to Unity Audio Scripting [Part 1](https://www.asoundeffect.com/game-audio-scripting/) & [Part 2](https://www.asoundeffect.com/game-audio-scripting-part-2/)
+- [Audio Programmers nerd out about the Unity audio sytstem](https://forum.unity3d.com/threads/official-audio-improvements.390837/)
 - [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
