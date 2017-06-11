@@ -34,6 +34,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 **C# & Unity**
 
+- Intro duction to Unity Audio Scripting [Part 1](https://www.asoundeffect.com/game-audio-scripting/) & [Part 2](https://www.asoundeffect.com/game-audio-scripting-part-2/)
 - [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
