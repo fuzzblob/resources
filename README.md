@@ -24,6 +24,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 - [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
 - [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
+- [Brief overview of C++ in one video](http://www.newthinktank.com/2014/11/c-programming-tutorial/)
 - [Cello - higher level programming in C](http://libcello.org/)
 - [An Introduction to Reflection in C++](http://jackieokay.com/2017/04/13/reflection1.html)
 - [Principles of C Programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
