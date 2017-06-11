@@ -61,6 +61,13 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 - [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
 
+**Git**
+
+- [GitIgnore.io - generate gitignore files for your project](https://www.gitignore.io/)
+- [The simple guide to Git](https://rogerdudler.github.io/git-guide/)
+- [Better Git Configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
+- [My Favorite Git Helpers](https://dev.to/andrew565/my-favorite-git-helpers)
+
 **Other Coding Ideas**
 
 - [Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
@@ -71,8 +78,6 @@ This repository serves as a place to gather resources for learning and applying 
 - [hacker shelf - Online programming library](http://hackershelf.com/browse/)
 - [The Principles of Good Programming](https://www.artima.com/weblogs/viewpost.jsp?thread=331531)
 - [Bit Flags are Pretty Cool](http://kylehalladay.com/blog/2013/04/21/Bit-Flags-Are-Pretty-Cool.html)
-- [Better Git Configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
-- [My Favorite Git Helpers](https://dev.to/andrew565/my-favorite-git-helpers)
 - [Builing a NAS](http://jro.io/nas/)
 - [Beau Carnes - Free JavaScript Course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 - [Testing the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2017/04/11/testing-the-windows-subsystem-for-linux/)
