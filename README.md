@@ -39,8 +39,13 @@ This repository serves as a place to gather resources for learning and applying 
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
 - [The C# ref keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
+- [Using Threads in Unity](http://blog.theknightsofunity.com/using-threads-unity/)
 - [SharpLab - decompiled C# sourcecode as IL](https://github.com/ashmind/SharpLab)
 - [sharplab.io - online SharpLab tool](https://sharplab.io/)
+- [Unity Assetbundles vs Resources](https://blogs.unity3d.com/2017/04/12/asset-bundles-vs-resources-a-memory-showdown/)
+- [xUnit testing framework](https://github.com/xunit/xunit)
+- [Unity Build automation boilerplate](https://github.com/jonathanpeppers/UnityBuild)
+- [Smart YAML Merge for Unity assets and scenes](https://docs.unity3d.com/Manual/SmartMerge.html)
 
 **Game Engines & Development**
 
@@ -61,6 +66,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [A Trip Down The LoL Graphics Pipeline](https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline)
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 - [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
+- [Quaternions and spatial rotation - Wikipedia](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
 
 **Git**
 
@@ -71,6 +77,7 @@ This repository serves as a place to gather resources for learning and applying 
 
 **Other Coding Ideas**
 
+- [NASA Coding Standards](http://www.rankred.com/nasa-coding-rules/)
 - [Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
 - [Programming Posters](https://github.com/corkami/pics)
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
