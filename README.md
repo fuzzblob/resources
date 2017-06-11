@@ -6,6 +6,7 @@ This repository serves as a place to gather resources for learning and applying 
 **Audio Programming**
 
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
+- [introduction digital signal processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
 - [Intro to Audio Programming, Part 1](https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/)
 - [Real-time audio programming 101](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 - [JUCE Framework Tutorials](https://www.juce.com/learn/)
@@ -19,6 +20,25 @@ This repository serves as a place to gather resources for learning and applying 
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
 - [Audio programming through the crystal ball](https://www.develop-online.net/tools-and-tech/audio-programming-through-the-crystal-ball/0116844)
 
+**C++**
+
+- [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
+- [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
+- [Cello - higher level programming in C](http://libcello.org/)
+- [An Introduction to Reflection in C++](http://jackieokay.com/2017/04/13/reflection1.html)
+- [Principles of C Programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
+- [Render Pipelines design in C++](http://www.marti.works/render-pipelines-desing-in-c/)
+- [Modern C++ and Lisp Programming Style](https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/)
+- [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
+
+**C# & Unity**
+
+- [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
+- [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
+- [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
+- [The C# ref keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
+- [SharpLab - decompiled C# sourcecode as IL](https://github.com/ashmind/SharpLab)
+- [sharplab.io - online SharpLab tool](https://sharplab.io/)
 
 **Game Engines & Development**
 
@@ -40,27 +60,10 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 - [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
 
-**C++**
+**Other Coding Ideas**
 
-- [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
-- [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
-- [Cello - higher level programming in C](http://libcello.org/)
-- [An Introduction to Reflection in C++](http://jackieokay.com/2017/04/13/reflection1.html)
-- [Principles of C Programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
-- [Render Pipelines design in C++](http://www.marti.works/render-pipelines-desing-in-c/)
-- [Modern C++ and Lisp Programming Style](https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/)
-- [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
-
-**C# & Unity**
-
-- [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
-- [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
-- [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
-- [The C# ref keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
-
-**Other Ideas**
-
--[Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
+- [Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
+- [Programming Posters](https://github.com/corkami/pics)
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 - [Daily builds are you friend](https://www.joelonsoftware.com/2001/01/27/daily-builds-are-your-friend/)
 - [Zen and the art of Unit testing](https://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing)
@@ -83,20 +86,19 @@ This repository serves as a place to gather resources for learning and applying 
 - [Learn CMake's Scripting Language](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Toward non-blocking asynchronous I/O](https://lwn.net/Articles/724198/)
+- [The Brotli compression algorithm used at DropBox](https://blogs.dropbox.com/tech/2017/04/deploying-brotli-for-static-content/)
 - [_theinitialcommit - Interviews](https://theinitialcommit.com/)
-
-
+- [The Shell Hater's Handbook](http://confreaks.tv/videos/gogaruco2010-the-shell-hater-s-handbook)
 
 **Sound Design**
 
+- [Game Audio Resources - blog.tammik.ca](http://blog.tammik.ca/2017/01/28/some-good-game-audio-resources/)
 - [Listening For Loudness in Video Games](www.stephenschappler.com/2013/07/26/listening-for-loudness-in-video-games/)
 - [Mobile Game Audio and Loudness](http://www.gamasutra.com/blogs/RobBridgett/20150311/225632/Adaptive_Audio_for_Mobile.php)
 - [Audio loudness for gaming: The battle against 'ear fatigue'](https://www.develop-online.net/analysis/audio-loudness-for-gaming-the-battle-against-ear-fatigue/0201083)
 - [School of Sound archives](http://www.schoolofsound.co.uk/sos/audio-and-video-archives/)
 - [Ableton Push for Reaper](http://www.mossgrabers.de/Software/Push/Push.html)
 - [{VIDEO} Game Audio talks](https://www.youtube.com/playlist?list=PLqrMQvig3uIv9y7R8E-o2e3SCdzYAhD0g)
-
-
 
 **Privacy**
 
@@ -105,3 +107,15 @@ This repository serves as a place to gather resources for learning and applying 
 - [Proton Mail - Secure email provider](https://protonmail.com/)
 - [Tutanota - Secure email provider](https://tutanota.com/)
 - [1Password - Password Manager](https://1password.com/)
+
+**Psychedelics**
+
+- [The Psychedelic Salon Podcast](https://psychedelicsalon.com/)
+- [Erowid - resources on psychedelic substances](https://erowid.org/new.php)
+- [{VIDEO} DMT - The Spirit Molecule](https://www.youtube.com/watch?v=LtT6Xkk-kzk)
+- [{VIDEO} DMT The War on Consciousness ](https://www.youtube.com/watch?v=MxvQusr9cwc)
+- [Extoplazm - creative commons psychedelic music](http://www.ektoplazm.com/)
+- [Everything You Wanted To Know About Microdosing (But Were Afraid To Ask)](http://www.huffingtonpost.com/entry/psychedelic-microdosing-research_us_569525afe4b09dbb4bac9db8)
+- [Psymposia](https://www.psymposia.com)
+- [Microdosing LSD with Dr. James Fadiman](http://smartdrugsmarts.com/episode-155-microdosing-lsd-james-fadiman/)
+- [James Fadiman's website](http://jamesfadiman.com/)
