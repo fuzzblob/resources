@@ -54,6 +54,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [Unity Build automation boilerplate](https://github.com/jonathanpeppers/UnityBuild)
 - [Smart YAML Merge for Unity assets and scenes](https://docs.unity3d.com/Manual/SmartMerge.html)
 - [Unity Node Editor framework](https://github.com/Seneral/Node_Editor)
+- [VR Camera Framelines](https://github.com/KellanHiggins/VRCameraFramelines)
 
 **Game Engines & Development**
 
