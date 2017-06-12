@@ -111,7 +111,6 @@ This repository serves as a place to gather resources for learning and applying 
 - [CMake and Visual Studio](https://cognitivewaves.wordpress.com/cmake-and-visual-studio/)
 - [Simple but complete CMake example](https://stackoverflow.com/questions/21163188/most-simple-but-complete-cmake-example)
 - [CMake Tutorial](https://cmake.org/cmake-tutorial/)
-- []()
 - [Learn CMake's Scripting Language](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Toward non-blocking asynchronous I/O](https://lwn.net/Articles/724198/)
