@@ -18,11 +18,14 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} How To Write an Audio Engine](http://www.gdcvault.com/play/1022060/How-to-Write-an-Audio)
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
 - [Audio programming through the crystal ball](https://www.develop-online.net/tools-and-tech/audio-programming-through-the-crystal-ball/0116844)
+- [Audio with SDL](http://osdl.sourceforge.net/main/documentation/rendering/SDL-audio.html)
+- [Play a sound with SDL2 (no SDL_Mixer)](https://gist.github.com/armornick/3447121)
+- [SDL Audio Examples](http://sdl.beuc.net/sdl.wiki/Audio_Examples)
 
 **C++**
 
 - [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
-- [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
+- [The safe C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
 - [Brief overview of C++ in one video](http://www.newthinktank.com/2014/11/c-programming-tutorial/)
 - [Cello - higher level programming in C](http://libcello.org/)
 - [An Introduction to Reflection in C++](http://jackieokay.com/2017/04/13/reflection1.html)
@@ -30,6 +33,10 @@ This repository serves as a place to gather resources for learning and applying 
 - [Render Pipelines design in C++](http://www.marti.works/render-pipelines-desing-in-c/)
 - [Modern C++ and Lisp Programming Style](https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/)
 - [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
+- [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
+- [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
+- [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
+- [WDL framework for audio application {by COCKOS}](https://github.com/justinfrankel/WDL)
 
 **C# & Unity**
 
@@ -46,6 +53,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [xUnit testing framework](https://github.com/xunit/xunit)
 - [Unity Build automation boilerplate](https://github.com/jonathanpeppers/UnityBuild)
 - [Smart YAML Merge for Unity assets and scenes](https://docs.unity3d.com/Manual/SmartMerge.html)
+- [Unity Node Editor framework](https://github.com/Seneral/Node_Editor)
 
 **Game Engines & Development**
 
@@ -97,12 +105,20 @@ This repository serves as a place to gather resources for learning and applying 
 - [A Mental Pseudo-Random Number Generator](http://blog.yunwilliamyu.net/2011/08/14/mindhack-mental-math-pseudo-random-number-generators/)
 - [How to Improve a Legacy Codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 - [How to exit Vim](https://medium.freecodecamp.com/one-out-of-every-20-000-stack-overflow-visitors-is-just-trying-to-exit-vim-5a6b6175e7b6)
+- [How to build a CMake based project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/)
+- [CMake and Visual Studio](https://cognitivewaves.wordpress.com/cmake-and-visual-studio/)
+- [Simple but complete CMake example](https://stackoverflow.com/questions/21163188/most-simple-but-complete-cmake-example)
+- [CMake Tutorial](https://cmake.org/cmake-tutorial/)
+- []()
 - [Learn CMake's Scripting Language](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Toward non-blocking asynchronous I/O](https://lwn.net/Articles/724198/)
 - [The Brotli compression algorithm used at DropBox](https://blogs.dropbox.com/tech/2017/04/deploying-brotli-for-static-content/)
 - [_theinitialcommit - Interviews](https://theinitialcommit.com/)
 - [The Shell Hater's Handbook](http://confreaks.tv/videos/gogaruco2010-the-shell-hater-s-handbook)
+- [Probable Passwords](https://github.com/berzerk0/Probable-Wordlists)
+- [Cryptography Tutorial](https://www.tutorialspoint.com/cryptography/index.htm)
+- [{VIDEO} MIT Calculus Revisited](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
 
 **Sound Design**
 
@@ -120,6 +136,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [EFF: Privacy Badger](https://www.eff.org/privacybadger)
 - [Proton Mail - Secure email provider](https://protonmail.com/)
 - [Tutanota - Secure email provider](https://tutanota.com/)
+- [SmartMail](https://www.startmail.com/en/) & [Review / Tutorial](https://anonymster.com/startmail-review-tutorial/)
 - [1Password - Password Manager](https://1password.com/)
 
 **Psychedelics**
