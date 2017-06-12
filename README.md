@@ -37,6 +37,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
 - [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
 - [WDL framework for audio application {by COCKOS}](https://github.com/justinfrankel/WDL)
+- [{VIDEO} Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
 
 **C# & Unity**
 
