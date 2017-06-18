@@ -38,6 +38,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
 - [WDL framework for audio application {by COCKOS}](https://github.com/justinfrankel/WDL)
 - [{VIDEO} Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
+- [CPP Cast](http://cppcast.com/)
 
 **C# & Unity**
 
@@ -56,6 +57,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [Smart YAML Merge for Unity assets and scenes](https://docs.unity3d.com/Manual/SmartMerge.html)
 - [Unity Node Editor framework](https://github.com/Seneral/Node_Editor)
 - [VR Camera Framelines](https://github.com/KellanHiggins/VRCameraFramelines)
+- [Compiling C# at runtime](http://www.arcturuscollective.com/archives/22)
 
 **Game Engines & Development**
 
@@ -120,6 +122,8 @@ This repository serves as a place to gather resources for learning and applying 
 - [Probable Passwords](https://github.com/berzerk0/Probable-Wordlists)
 - [Cryptography Tutorial](https://www.tutorialspoint.com/cryptography/index.htm)
 - [{VIDEO} MIT Calculus Revisited](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
+- [Resume Generator](https://writecodeeveryday.github.io/projects/resumegen/)
+- [Generate PDFs from Markdown](https://dev.to/martin_betz/generate-pdf-invoices-from-markdown-using-pandoc) using [Pandoc](http://pandoc.org/)
 
 **Sound Design**
 
@@ -151,3 +155,5 @@ This repository serves as a place to gather resources for learning and applying 
 - [Psymposia](https://www.psymposia.com)
 - [Microdosing LSD with Dr. James Fadiman](http://smartdrugsmarts.com/episode-155-microdosing-lsd-james-fadiman/)
 - [James Fadiman's website](http://jamesfadiman.com/)
+- [{MOVIE} The Sunshine Makers](https://m.imdb.com/title/tt4456270/)
+- [{MOVIE} Dying to Know](https://www.youtube.com/watch?v=iUPpypqWNgM)
