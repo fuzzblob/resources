@@ -35,10 +35,15 @@ This repository serves as a place to gather resources for learning and applying 
 - [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
 - [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 - [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
+- [Noesis GUI engine](http://noesisengine.com/)
 - [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
-- [WDL framework for audio application {by COCKOS}](https://github.com/justinfrankel/WDL)
+- [WDL audio framework](https://github.com/justinfrankel/WDL) by [COCKOS](http://www.cockos.com/wdl/)
+- [zlib compression library](http://www.zlib.net/)
+- [djfft Ultra fast FFT](https://cr.yp.to/djbfft.html)
+- [Essentia](http://essentia.upf.edu/documentation/) audio analysis and synthesis 
 - [{VIDEO} Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
 - [CPP Cast](http://cppcast.com/)
+- [CERT C++ coding standard](https://www.sei.cmu.edu/news/article.cfm?assetid=495412&article=081&year=2017)
 
 **C# & Unity**
 
@@ -58,6 +63,9 @@ This repository serves as a place to gather resources for learning and applying 
 - [Unity Node Editor framework](https://github.com/Seneral/Node_Editor)
 - [VR Camera Framelines](https://github.com/KellanHiggins/VRCameraFramelines)
 - [Compiling C# at runtime](http://www.arcturuscollective.com/archives/22)
+- [Unified Unity Test Runner](https://blogs.unity3d.com/2015/10/07/unified-test-runner-test-analytics/)
+- [Evolving Unity Build Automation](https://blogs.unity3d.com/2017/06/15/a-look-inside-evolving-automation/)
+- [Lerping with Coroutines and Animation Curves](https://hackernoon.com/lerping-with-coroutines-and-animation-curves-4185b30f6002)
 
 **Game Engines & Development**
 
