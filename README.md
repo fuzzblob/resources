@@ -115,6 +115,8 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} DMT - The Spirit Molecule](https://www.youtube.com/watch?v=LtT6Xkk-kzk)
 - [{VIDEO} DMT The War on Consciousness ](https://www.youtube.com/watch?v=MxvQusr9cwc)
 - [Extoplazm - creative commons psychedelic music](http://www.ektoplazm.com/)
+- [Psychedelic Science conference talks](http://psychedelicscience.org/videos)
+- [Multidisciplinary Association for Psychedelic Studies (MAPS)](http://www.maps.org/)
 - [Everything You Wanted To Know About Microdosing (But Were Afraid To Ask)](http://www.huffingtonpost.com/entry/psychedelic-microdosing-research_us_569525afe4b09dbb4bac9db8)
 - [Psymposia](https://www.psymposia.com)
 - [Microdosing LSD with Dr. James Fadiman](http://smartdrugsmarts.com/episode-155-microdosing-lsd-james-fadiman/)
