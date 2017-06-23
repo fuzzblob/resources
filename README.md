@@ -2,7 +2,6 @@
 
 This repository serves as a place to gather resources for learning and applying various pieces of knowledge in regards to programming, sound design and other tidbits found around the internet.
 
-
 **Audio Programming**
 
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
@@ -19,26 +18,54 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} How To Write an Audio Engine](http://www.gdcvault.com/play/1022060/How-to-Write-an-Audio)
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
 - [Audio programming through the crystal ball](https://www.develop-online.net/tools-and-tech/audio-programming-through-the-crystal-ball/0116844)
+- [Audio with SDL](http://osdl.sourceforge.net/main/documentation/rendering/SDL-audio.html)
+- [Play a sound with SDL2 (no SDL_Mixer)](https://gist.github.com/armornick/3447121)
+- [SDL Audio Examples](http://sdl.beuc.net/sdl.wiki/Audio_Examples)
 
 **C++**
 
 - [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
-- [The sfae C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
+- [The safe C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
+- [Brief overview of C++ in one video](http://www.newthinktank.com/2014/11/c-programming-tutorial/)
 - [Cello - higher level programming in C](http://libcello.org/)
 - [An Introduction to Reflection in C++](http://jackieokay.com/2017/04/13/reflection1.html)
 - [Principles of C Programming](https://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
 - [Render Pipelines design in C++](http://www.marti.works/render-pipelines-desing-in-c/)
 - [Modern C++ and Lisp Programming Style](https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/)
 - [How to Write Portable C Without Complicating Your Build](http://nullprogram.com/blog/2017/03/30/)
+- [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
+- [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
+- [Noesis GUI engine](http://noesisengine.com/)
+- [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
+- [WDL audio framework](https://github.com/justinfrankel/WDL) by [COCKOS](http://www.cockos.com/wdl/)
+- [zlib compression library](http://www.zlib.net/)
+- [djfft Ultra fast FFT](https://cr.yp.to/djbfft.html)
+- [Essentia](http://essentia.upf.edu/documentation/) audio analysis and synthesis 
+- [{VIDEO} Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
+- [CPP Cast](http://cppcast.com/)
+- [CERT C++ coding standard](https://www.sei.cmu.edu/news/article.cfm?assetid=495412&article=081&year=2017)
 
 **C# & Unity**
 
+- Intro duction to Unity Audio Scripting [Part 1](https://www.asoundeffect.com/game-audio-scripting/) & [Part 2](https://www.asoundeffect.com/game-audio-scripting-part-2/)
+- [Audio Programmers nerd out about the Unity audio sytstem](https://forum.unity3d.com/threads/official-audio-improvements.390837/)
 - [C# Coroutines](https://smellegantcode.wordpress.com/2008/04/09/coroutines-with-ienumerable-and-yield-return/)
 - [Unity Extension boilerplate](https://github.com/kinifi/unity-extension-boilerplate)
 - [Unity Coroutines – More than you want to know](http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know)
 - [The C# ref keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
+- [Using Threads in Unity](http://blog.theknightsofunity.com/using-threads-unity/)
 - [SharpLab - decompiled C# sourcecode as IL](https://github.com/ashmind/SharpLab)
 - [sharplab.io - online SharpLab tool](https://sharplab.io/)
+- [Unity Assetbundles vs Resources](https://blogs.unity3d.com/2017/04/12/asset-bundles-vs-resources-a-memory-showdown/)
+- [xUnit testing framework](https://github.com/xunit/xunit)
+- [Unity Build automation boilerplate](https://github.com/jonathanpeppers/UnityBuild)
+- [Smart YAML Merge for Unity assets and scenes](https://docs.unity3d.com/Manual/SmartMerge.html)
+- [Unity Node Editor framework](https://github.com/Seneral/Node_Editor)
+- [VR Camera Framelines](https://github.com/KellanHiggins/VRCameraFramelines)
+- [Compiling C# at runtime](http://www.arcturuscollective.com/archives/22)
+- [Unified Unity Test Runner](https://blogs.unity3d.com/2015/10/07/unified-test-runner-test-analytics/)
+- [Evolving Unity Build Automation](https://blogs.unity3d.com/2017/06/15/a-look-inside-evolving-automation/)
+- [Lerping with Coroutines and Animation Curves](https://hackernoon.com/lerping-with-coroutines-and-animation-curves-4185b30f6002)
 
 **Game Engines & Development**
 
@@ -59,9 +86,18 @@ This repository serves as a place to gather resources for learning and applying 
 - [A Trip Down The LoL Graphics Pipeline](https://engineering.riotgames.com/news/trip-down-lol-graphics-pipeline)
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 - [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
+- [Quaternions and spatial rotation - Wikipedia](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
+
+**Git**
+
+- [GitIgnore.io - generate gitignore files for your project](https://www.gitignore.io/)
+- [The simple guide to Git](https://rogerdudler.github.io/git-guide/)
+- [Better Git Configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
+- [My Favorite Git Helpers](https://dev.to/andrew565/my-favorite-git-helpers)
 
 **Other Coding Ideas**
 
+- [NASA Coding Standards](http://www.rankred.com/nasa-coding-rules/)
 - [Welcome to the Jungle - On Mutithreading](https://herbsutter.com/welcome-to-the-jungle/)
 - [Programming Posters](https://github.com/corkami/pics)
 - [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
@@ -70,8 +106,6 @@ This repository serves as a place to gather resources for learning and applying 
 - [hacker shelf - Online programming library](http://hackershelf.com/browse/)
 - [The Principles of Good Programming](https://www.artima.com/weblogs/viewpost.jsp?thread=331531)
 - [Bit Flags are Pretty Cool](http://kylehalladay.com/blog/2013/04/21/Bit-Flags-Are-Pretty-Cool.html)
-- [Better Git Configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
-- [My Favorite Git Helpers](https://dev.to/andrew565/my-favorite-git-helpers)
 - [Builing a NAS](http://jro.io/nas/)
 - [Beau Carnes - Free JavaScript Course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 - [Testing the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2017/04/11/testing-the-windows-subsystem-for-linux/)
@@ -83,12 +117,21 @@ This repository serves as a place to gather resources for learning and applying 
 - [A Mental Pseudo-Random Number Generator](http://blog.yunwilliamyu.net/2011/08/14/mindhack-mental-math-pseudo-random-number-generators/)
 - [How to Improve a Legacy Codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 - [How to exit Vim](https://medium.freecodecamp.com/one-out-of-every-20-000-stack-overflow-visitors-is-just-trying-to-exit-vim-5a6b6175e7b6)
+- [How to build a CMake based project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/)
+- [CMake and Visual Studio](https://cognitivewaves.wordpress.com/cmake-and-visual-studio/)
+- [Simple but complete CMake example](https://stackoverflow.com/questions/21163188/most-simple-but-complete-cmake-example)
+- [CMake Tutorial](https://cmake.org/cmake-tutorial/)
 - [Learn CMake's Scripting Language](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Toward non-blocking asynchronous I/O](https://lwn.net/Articles/724198/)
 - [The Brotli compression algorithm used at DropBox](https://blogs.dropbox.com/tech/2017/04/deploying-brotli-for-static-content/)
 - [_theinitialcommit - Interviews](https://theinitialcommit.com/)
 - [The Shell Hater's Handbook](http://confreaks.tv/videos/gogaruco2010-the-shell-hater-s-handbook)
+- [Probable Passwords](https://github.com/berzerk0/Probable-Wordlists)
+- [Cryptography Tutorial](https://www.tutorialspoint.com/cryptography/index.htm)
+- [{VIDEO} MIT Calculus Revisited](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
+- [Resume Generator](https://writecodeeveryday.github.io/projects/resumegen/)
+- [Generate PDFs from Markdown](https://dev.to/martin_betz/generate-pdf-invoices-from-markdown-using-pandoc) using [Pandoc](http://pandoc.org/)
 
 **Sound Design**
 
@@ -106,6 +149,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [EFF: Privacy Badger](https://www.eff.org/privacybadger)
 - [Proton Mail - Secure email provider](https://protonmail.com/)
 - [Tutanota - Secure email provider](https://tutanota.com/)
+- [SmartMail](https://www.startmail.com/en/) & [Review / Tutorial](https://anonymster.com/startmail-review-tutorial/)
 - [1Password - Password Manager](https://1password.com/)
 
 **Psychedelics**
@@ -121,3 +165,5 @@ This repository serves as a place to gather resources for learning and applying 
 - [Psymposia](https://www.psymposia.com)
 - [Microdosing LSD with Dr. James Fadiman](http://smartdrugsmarts.com/episode-155-microdosing-lsd-james-fadiman/)
 - [James Fadiman's website](http://jamesfadiman.com/)
+- [{MOVIE} The Sunshine Makers](https://m.imdb.com/title/tt4456270/)
+- [{MOVIE} Dying to Know](https://www.youtube.com/watch?v=iUPpypqWNgM)
