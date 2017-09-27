@@ -10,6 +10,8 @@ This repository serves as a place to gather resources for learning and applying 
 - [Real-time audio programming 101](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 - [JUCE Framework Tutorials](https://www.juce.com/learn/)
 - [DSP Programming Resources](http://www.musicdsp.org/links.php)
+- [DSP Guru](https://dspguru.com/)
+- [Music DSP mailing list](http://cmc.music.columbia.edu/music-dsp/)
 - [Digital Audio Programming Books](http://www.polyhedric.com/software/amazon/dsp.htm)
 - [The Audio Programming Book (MIT Press)](https://mitpress.mit.edu/books/audio-programming-book)
 - [{VIDEO} Programming and Audio code talks](https://www.youtube.com/playlist?list=PLqrMQvig3uIu_a6dUIw_fabftEQ-_1kpF)
@@ -18,12 +20,37 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} How To Write an Audio Engine](http://www.gdcvault.com/play/1022060/How-to-Write-an-Audio)
 - [How To Write an Audio Engine, Part 2](http://www.gdcvault.com/play/1024677/How-to-Write-an-Audio)
 - [Audio programming through the crystal ball](https://www.develop-online.net/tools-and-tech/audio-programming-through-the-crystal-ball/0116844)
+- [{VIDEO} SDL Game Engine tutorial](https://www.youtube.com/playlist?list=PLhJr2LOK-xwxQlevIZ97ZABLw72Eu9he7)
 - [Audio with SDL](http://osdl.sourceforge.net/main/documentation/rendering/SDL-audio.html)
 - [Play a sound with SDL2 (no SDL_Mixer)](https://gist.github.com/armornick/3447121)
-- [SDL Audio Examples](http://sdl.beuc.net/sdl.wiki/Audio_Examples)
+- [SDL Audio example with code review](https://codereview.stackexchange.com/questions/41086/play-some-sine-waves-with-sdl2)
+- [Simple SDL2 Audio](https://github.com/jakebesworth/Simple-SDL2-Audio) (can play multiple sounds at once)
+- [SDL Audio Examples](http://sdl.beuc.net/sdl.wiki/Audio_Examples) [1]
+- [SDL Audio Examples](http://rerwarwar.weebly.com/sdl2-audio.html) [2]
+- [SDL Audio Examples](https://www.libsdl.org/release/SDL-1.2.15/docs/html/guideaudioexamples.html) [3]
+- [SDL Audio Examples](http://lazyfoo.net/tutorials/SDL/21_sound_effects_and_music/index.php) [4]
+- [SDL audio resampling](https://hg.libsdl.org/SDL/file/e12c38730512/test/testresample.c)
+- [SDL audio looping](https://hg.libsdl.org/SDL/file/e12c38730512/test/loopwave.c)
+- [Initializing SDL Audio](https://davidgow.net/handmadepenguin/ch7.html) (handmade penguin)
+- [ffmpeg and SDL Tutorial](http://dranger.com/ffmpeg/tutorial03.html)
+- [OpenAl tutorial](http://www.edenwaith.com/products/pige/tutorials/openal.php)
+- [OpenAl without ALUT](http://enigma-dev.org/forums/index.php?topic=730.0)
+- [PulseAudio under the hood](https://gavv.github.io/blog/pulseaudio-under-the-hood/)
+- [PortAudio Library](http://www.portaudio.com/)
+- [RtAudio Library](http://www.music.mcgill.ca/~gary/rtaudio/)
+- [libao library](https://www.xiph.org/ao/)
+- [Libsndfile library](http://www.mega-nerd.com/libsndfile/)
+- [an Audio Programming Primer](http://creatingsound.com/2012/09/audio-programming-primer-2/)
+- [Audio Programming articles](http://www.aiwisdom.com/audio_all.html) in the Game Programming Gems series
+- [Convolution Techniques](http://www.music.miami.edu/programs/mue/Research/jvandekieft/jvchapter2.htm)
+- [CIRCLES, SINES, AND SIGNALS - A DSP Primer](https://jackschaedler.github.io/circles-sines-signals/)
+- [generative audio cheat sheet](https://github.com/cirosantilli/cpp-cheat/blob/f734a2e76fbcfc67f707ae06be7a2a2ef5db47d1/c/interactive/audio_gen.c#L44)
+- [Audio Style Transfer](https://gauthamzz.github.io/2017/09/23/AudioStyleTransfer/)
+- [Pink Noise Generation in depth](http://www.firstpr.com.au/dsp/pink-noise/)
 
 **C++**
 
+- [C++ community and resources](http://www.cplusplus.com/)
 - [C++ Language Quick Guide](https://viptechworld.blogspot.ca/2017/05/cpp-quick-guide-by-vtw.html?m=1)
 - [The safe C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
 - [Brief overview of C++ in one video](http://www.newthinktank.com/2014/11/c-programming-tutorial/)
@@ -40,10 +67,15 @@ This repository serves as a place to gather resources for learning and applying 
 - [WDL audio framework](https://github.com/justinfrankel/WDL) by [COCKOS](http://www.cockos.com/wdl/)
 - [zlib compression library](http://www.zlib.net/)
 - [djfft Ultra fast FFT](https://cr.yp.to/djbfft.html)
+- [FFTW](http://www.fftw.org/)
 - [Essentia](http://essentia.upf.edu/documentation/) audio analysis and synthesis 
 - [{VIDEO} Hourglass Interfaces for C++ APIs](https://www.youtube.com/watch?v=PVYdHDm0q6Y)
 - [CPP Cast](http://cppcast.com/)
+- [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
 - [CERT C++ coding standard](https://www.sei.cmu.edu/news/article.cfm?assetid=495412&article=081&year=2017)
+- [SHMALL - SimpleHeapMemoryALLocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
+- [About memory reclamation](https://concurrencyfreaks.blogspot.ca/2017/08/why-is-memory-reclamation-so-important.html?m=1)
+- Elias Daler's [old](https://eliasdaler.wordpress.com/) and [new](https://eliasdaler.github.io/) blogs
 
 **C# & Unity**
 
@@ -66,6 +98,13 @@ This repository serves as a place to gather resources for learning and applying 
 - [Unified Unity Test Runner](https://blogs.unity3d.com/2015/10/07/unified-test-runner-test-analytics/)
 - [Evolving Unity Build Automation](https://blogs.unity3d.com/2017/06/15/a-look-inside-evolving-automation/)
 - [Lerping with Coroutines and Animation Curves](https://hackernoon.com/lerping-with-coroutines-and-animation-curves-4185b30f6002)
+- [Little ASP.NET Core Book](https://www.recaffeinate.co/post/introducing-little-aspnetcore-book/)
+- [Calcflow VR Math Visualizer](https://github.com/matryx/calcflow)
+- [Building Unity from the command line](https://andrewfray.wordpress.com/2013/08/28/how-to-build-unity3d-scripts-from-the-command-line/)
+- [Setting up and building a Unity class library (DLL) in Visual Studio](http://www.tristancartledge.com/setting-up-and-building-a-unity-class-library/)
+- [10000 Update() calls - Unity](https://blogs.unity3d.com/2015/12/23/1k-update-calls/)
+- [Unit testing at the speed of light with Unity Test Tools](https://blogs.unity3d.com/2014/07/28/unit-testing-at-the-speed-of-light-with-unity-test-tools/)
+- [C# pink noise algorithm](https://www.physicsforums.com/threads/c-pink-noise-algorithm.757648/)
 
 **Game Engines & Development**
 
@@ -78,7 +117,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} Game Engine design using STD C++ 11](https://www.youtube.com/watch?v=8AjRD6mU96s&app=desktop)
 - [C or C++ for my game engine?](http://crafn.kapsi.fi/new_engine.html)
 - [Lullaby - C++ libraries VR & AR](https://github.com/google/lullaby)
-- [Godot - Open SOurce Game Engine](https://godotengine.org/)
+- [Godot - Open Source Game Engine](https://godotengine.org/)
 - [Godot - Tutorial Series](http://www.gamefromscratch.com/page/Godot-Game-Engine-tutorial-series.aspx)
 - [Ray-Sphere Intersection with Simple Math](http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html)
 - [Game Tech in Wandersong](https://wandersong.tumblr.com/tagged/howto)
@@ -87,6 +126,9 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} Game Development talks and tutorials](https://www.youtube.com/playlist?list=PLqrMQvig3uIstqoR0dMYnd5GERnpIOlTx)
 - [Procedural audio with Unity](https://www.develop-online.net/tools-and-tech/procedural-audio-with-unity/0117433)
 - [Quaternions and spatial rotation - Wikipedia](https://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)
+- [Book Of Shaders](https://thebookofshaders.com/)
+- [{VIDEO} Practical Unit Tests](https://andrewfray.wordpress.com/2014/04/07/practical-unit-tests-screencast/)
+- [OpenGL-tutorial.org](http://www.opengl-tutorial.org/)
 
 **Git**
 
@@ -94,6 +136,7 @@ This repository serves as a place to gather resources for learning and applying 
 - [The simple guide to Git](https://rogerdudler.github.io/git-guide/)
 - [Better Git Configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
 - [My Favorite Git Helpers](https://dev.to/andrew565/my-favorite-git-helpers)
+- [Pro Git (free book)](https://git-scm.com/book/en/v2)
 
 **Other Coding Ideas**
 
@@ -132,6 +175,10 @@ This repository serves as a place to gather resources for learning and applying 
 - [{VIDEO} MIT Calculus Revisited](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
 - [Resume Generator](https://writecodeeveryday.github.io/projects/resumegen/)
 - [Generate PDFs from Markdown](https://dev.to/martin_betz/generate-pdf-invoices-from-markdown-using-pandoc) using [Pandoc](http://pandoc.org/)
+- [least cost path weighted digraph using bfs](http://www.techiedelight.com/least-cost-path-weighted-digraph-using-bfs/)
+- [The Lil License](http://lillicense.org/v1.html)
+- [Brilliant: logic & math courses](https://brilliant.org/courses/)
+- [macOS 10.12.6 Source Code](https://opensource.apple.com/release/macos-10126.html)
 
 **Sound Design**
 
@@ -142,10 +189,12 @@ This repository serves as a place to gather resources for learning and applying 
 - [School of Sound archives](http://www.schoolofsound.co.uk/sos/audio-and-video-archives/)
 - [Ableton Push for Reaper](http://www.mossgrabers.de/Software/Push/Push.html)
 - [{VIDEO} Game Audio talks](https://www.youtube.com/playlist?list=PLqrMQvig3uIv9y7R8E-o2e3SCdzYAhD0g)
+- [Game Audio Relevance](https://gameaudiorelevance.iasig.org/)
 
 **Privacy**
 
 - [privacytools.io](https://privacytoolsio.github.io/privacytools.io/)
+- [decentsecurity.com](https://decentsecurity.com/)
 - [EFF: Privacy Badger](https://www.eff.org/privacybadger)
 - [Proton Mail - Secure email provider](https://protonmail.com/)
 - [Tutanota - Secure email provider](https://tutanota.com/)
