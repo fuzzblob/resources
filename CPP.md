@@ -77,6 +77,8 @@
 - [RtAudio Library](http://www.music.mcgill.ca/~gary/rtaudio/)
 - [libao library](https://www.xiph.org/ao/)
 - [Libsndfile library](http://www.mega-nerd.com/libsndfile/)
+- [Essentia](http://essentia.upf.edu/documentation/) audio analysis and synthesis
+- [Xiph audio codec library](https://github.com/kfish/libfishsound) (FLAC, Speex and Vorbis)
 
 ## Tools
 
@@ -97,29 +99,37 @@
 
 - [Cello - higher level programming in C](http://libcello.org/)
 - [The safe C++ Library](http://www.drdobbs.com/cpp/the-safe-c-library/214502214)
-- [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
-- [Noesis GUI engine](http://noesisengine.com/)
-- [sol2 - Lua scripting for C++](https://github.com/ThePhD/sol2)
 - [zlib compression library](http://www.zlib.net/)
-- [djfft Ultra fast FFT](https://cr.yp.to/djbfft.html)
-- [FFTW](http://www.fftw.org/)
-- [Essentia](http://essentia.upf.edu/documentation/) audio analysis and synthesis
 - [SHMALL - SimpleHeapMemoryALLocator](https://github.com/CCareaga/heap_allocator#shmall---simple-heap-memory-allocator)
 - [nflibs - utility libraries](https://github.com/niklasfrykholm/nflibs)
 - [Junction - concurrent data structures in C++](https://github.com/preshing/junction)
 - [utfcpp - UTF8 library](http://utfcpp.sourceforge.net/)
 - [pubxml library](https://pugixml.org/)
-- [GLM - 3D vector math library (OpenGL)](https://glm.g-truc.net/0.9.8/index.html)
 - [OpenFrameworks](http://openframeworks.cc/)
 - [sol 1 - C++ Lua wrapper](https://github.com/Rapptz/sol/)
 - [sol 2 - C++ Lua wrapper](https://github.com/ThePhD/sol2)
-- [Single File Libs](https://github.com/nothings/single_file_libs) (C / C++)
-- [nuklear GUI](https://github.com/vurtun/nuklear)
-- [libui GUI](https://github.com/andlabs/libui)
-- [tiny headers](https://github.com/RandyGaul/tinyheaders)
-- [Xiph audio codec library](https://github.com/kfish/libfishsound) (FLAC, Speex and Vorbis)
 - [Electronic Arts Standard Template Library](https://github.com/electronicarts/EASTL)
 - [Lullaby - C++ libraries VR & AR](https://github.com/google/lullaby)
+
+### Math
+
+- [GLM - 3D vector math library (OpenGL)](https://glm.g-truc.net/0.9.8/index.html)
+- [djfft Ultra fast FFT](https://cr.yp.to/djbfft.html)
+- [FFTW](http://www.fftw.org/)
+
+### GUI
+- [dear IMGUI - Immediate Mode UI library](https://github.com/ocornut/imgui)
+- [Noesis GUI engine](http://noesisengine.com/)
+- [nuklear GUI](https://github.com/vurtun/nuklear)
+- [libui GUI](https://github.com/andlabs/libui)
+
+### Tiny Libs
+
+- [single_file_libs](https://github.com/nothings/single_file_libs)
+- [dr_libs](https://github.com/mackron/dr_libs)
+- [sts libs](https://github.com/kieselsteini/sts)
+- [tiny headers](https://github.com/RandyGaul/tinyheaders)
+- [stb libs](https://github.com/nothings/stb)
 
 ## Coding Standards
 
