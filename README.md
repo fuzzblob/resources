@@ -1,4 +1,4 @@
-##Resources
+## Resources
 
 This repository serves as a place to gather resources for learning and applying various pieces of knowledge in regards to programming, sound design and other tidbits found around the internet.
 
